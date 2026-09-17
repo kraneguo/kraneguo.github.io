@@ -151,6 +151,16 @@ p {
 	line-height: 1.3;
 }
 
+.homepage-intro p {
+	max-width: 65ch;
+	margin-bottom: 1.4em;
+	line-height: 1.5;
+}
+
+.homepage-intro p:last-child {
+	margin-bottom: 0;
+}
+
 pre {
 	padding: 0;
 	margin: 0;
